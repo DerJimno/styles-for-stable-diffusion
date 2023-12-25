@@ -1,26 +1,36 @@
 name,prompt,negative_prompt,
 ____Jimno Styles____,,,,
 ____*Negative Prompts*____,,,,
-Default_Negative,,"distorted hands ,distorted fingers, distorted fingernails, misshapen hans, misshapen fingernails, misshapen fingersRealisian_v40_fp16,(UnrealisticDream:1.2), freckles, body freckles, text, signature, title, heading, watermark, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, clonned fingers ,mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, out of frame, ugly, extra limbs, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, mutated hands, fused fingers, too many fingers, long neck, bad_prompt_version2 [afea], EMS-46-EMS [119b], EMS-47-EMS [1a3e], EMS-45-EMS [dba1], bad_pictures [49a8], negative_hand-neg [b740], bad-picture-chill-75v [1eff], BadDream [48d0], FastNegativeEmbedding [3041], bad-artist [2a38], UnrealisticDream [5f55],clothes,cloned limbs,excessive limbs, doubled limbs",
-____*Positive Prompts*____,,,,
-_007,"Splatter illustration portrait of name_class, a beautiful painting in the style of cedric peyravernay of daniel craig as james bond, dimly lit in the shadows holding a walther ppk aiming at camera",,
+Default_Negative,,"Necklace, chain, hands, open mouth ,teeth, tooth",
+____*Prompts*____,,,,
+
+____*Anime*____,,,,
+Naruto,"Oil Anime style pic of name_class, as in naruto, looking at the sky",,
+Dragon Ball,"Oil Anime style pic of name_class, as in dragon ball, looking at the sky",,
+One Piece,"Oil Anime style pic of name_class, as in one piece, looking at the sky",,
+
+____*Film culte*____,,,,
 Gentelman Demon,"oil illustration portrait of name_class, detailed portrait, hyperreal demonic lovecraftian biomechanical alien steampunk cyborg cenobite evil stygian cultist nyarlathotep gentleman demon wearing a red top hat and a suit, by wayne barlowe, alan lee, giger, brian froud, lisa frank, luis royo, beksinksi, and alex grey, rendered in octane and unreal engine 5, trending on cgsociety, in the style of doom, warhammer 40k, dead space, mass effect",,
 Cowboy,"oil illustration portrait of name_class, in the style of red dead redemption 2 loading screen, wearing a hat, cowboy, desert, fire guns, hell, by stephen bliss, artstation",,
-Warrior,"oil illustration portrait of name_class, roman general, handsome noble, ancient soldier, close - up portrait of roman warrior in lorica segmentata, character portrait, masterfully shaded, deep focus, amber eyes, insane color, artstation, perfect dramatic lighting, 8 k, game cover art, sharp focus, anatomically correct, historical reconstruction, by artgerm and greg rutkowski",,
-Kimono,"oil illustration portrait of name_class, as a beautiful man wearing a kimono from skyrim, by stanley artgerm lau, wlop, rossdraws, james jean, andrei riabovitchev, marc simonetti, and sakimichan, trending on artstation",,
-Ninja,"oil illustration portrait of name_class, modern elegant samurai ninja, with large sword, powerful, beautiful, upper body, muscular, wide leg hakama trousers, highly detailed, by gaston bussiere, mucha, gerome, craig mullins, greg rutkowski, john singer sargent",,
-Cyberpunk,"oil illustration portrait of name_class, android wearing mechanic clothes in a cyberpunk street  full of lights and rain . character design by charlie bowater, ross tran, artgerm, and makoto shinkai, detailed, inked, western comic book art",,
-Dark-fire force,"oil illustration portrait of name_class,  wearing black metal respirator black cloak black hood burning eyes on fire ghost rider witch king of angmar ring wraith Bladerunner 2049 movie still (2017) style of Roger Deakins Jeremy Saulnier Newton Thomas Sigel Robert Elswit Greig Fraser trending dark hallway rtx on ue4 35mm Kodak Vision 2383 gritty atmospheric",,
-Astronaut,"oil illustration portrait of name_class, astronauts in dark and empty void underwater - complex and hyperdetailed technical suit. reflection and dispersion materials. rays and dispersion of light. volumetric light. 5 0 mm, f / 3 2. noise film photo. flash photography. ultra realistic, wide angle. poster by wayne barlowe, hajime sorayama aaron horkey, craig mullins",,
-lightning magic,"oil illustration portrait of name_class, as a powerful mysterious whicher, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold, cinematic lighting, dark",,
+Gladiator,"oil illustration painting of name_class,  Gladiator, armor, shield, helmet, holding a sword, ancient rome, fortress, alpha male, action, hero, battlefield, epic",,
+Cyberpunk,"oil illustration painting of name_class, in Cyberpunk style",,
 Pirate,"oil illustration portrait of name_class, as a dread pirate captain, proudly posing at the helm of his frigate wearing a pirate hat, artstation, cinematic lighting, hyperdetailed, cgsociety, 8k, high resolution, insanely detailed and intricate",,
-Splatter,"oil illustration portrait of name_class, a award winning half body portrait of a beautiful man in a croptop and cargo pants with ombre purple pink teal hairstyle and hands in pockets by ari liloan, surrounded by whirling illuminated lines, paint splashes and splatter, outrun, vaporware, shaded flat illustration, digital art, trending on artstation, highly detailed, fine detail, intricate",,
-Flowerish,"oil illustration portrait of name_class, a man with luminescent hair, wearing a suit embedded with pulsating holographic flowers, dancing at a masquerade ball in a virtual reality wonderland. Art by Rinko Kawauchi, cyberpunk surrealism, naturalistic poses, vacation dadcore, youthful energy, cool expression, body extensions, analog film, super detail, dreamy lo-fi photography, colorful, shot on Fujifilm XT4 --v 5. 2 --ar 3:4 --s 250 --style raw",,
-Yakuza,"oil illustration portrait of name_class, Majima Goro, Mad dog of Shimano, Yakuza kiwami, eye patch, dagger, cinematic, Super detailed, Cinematic Lighting",,
-Yakuza2,"oil illustration portrait of name_class, hyper realistic photograph, Japanese man with yakuza tattoo, future punk, gold tattoo line, side profile, Leica 85mm, Kodak portra 800, chiaroscuro, f1. 4, CLEAN SHAVEN, serious, stoic cinematic 4k epic detailed 4k epic detailed photograph shot on kodak detailed bokeh cinematic hbo dark moody",,
-Pop Art(light),"Splatter illustration portrait of name_class, haired male sorcerer wizard casting spells colors dark background , orange, blue, violet, rosa colors everywhere, artistic background",,
-Pop Art(dark),"Splatter illustration portrait of name_class, haired male sorcerer wizard casting spells colors dark background , random colors everywhere, artistic background",,
+Wednesday,"gothic chic Oil illustration portrait of Jameela Jamil a woman, as Wednesday Addams Family girl, dark face, skinny",,
 
-____*Add Ons*____,,,,
-Skin Enhancer,"detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering",,
-Skin Enhancer (clean),"detailed skin texture, (blush:0.2), (goosebumps:0.3), subsurface scattering",,
+____*Art Styles*____,,,,
+Stellaire,"Eden Oil illustration portrait of name_class, looking at the heavens in an epic shot, casting spells colors dark background, random colors everywhere, artistic background",,
+Pop Art,"Eden Oil illustration portrait of name_class in splatter fantasy full of colorful art style looking at the sky ",,
+Cleopatra,"Eden Oil illustration portrait of name_class as Queen Cleopatra looking at the sky ",,
+Splatter,"Splatter fantasy concept art style portrait of name_class",,
+Flowerish,"ethereal fantasy concept art style portrait of name_class",,
+Steampunk,"Steampunk style portrait of name_class",,
+
+____*Dog Styles*____,,,,
+Pop Art,"expressionist painting of name_class wearing an aristocrat clothing as aristocrat man",,
+
+
+
+
+
+
+
